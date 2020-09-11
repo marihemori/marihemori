@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://64.media.tumblr.com/d8c347cf3e03580d0cf07b9f87cc0147/tumblr_mirqjfhcBM1rfjowdo1_500.gifv" width="55px">
+   <br><br>
+  <samp>
+    👋 Hi there! I'm a Front-end Developer.
+  </samp>
+</p>
+  
+<p align="center">
+  <br>✨ I’m currently learning JavaScript.
+  <br>✨ I also practice design User Interface.
+  <br><br>
+</p>
 
-<!--
-**marianamorais/marianamorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-Mariana%20Morais-FFA568?style=flat-rounded&logo=Linkedin&logoColor=202020&link=https://www.linkedin.com/in/marianamorais000/)](https://www.linkedin.com/in/marianamorais000/) 
+[![Twitter Badge](https://img.shields.io/badge/-@marimorais0-FFA568?style=flat-rounded&labelColor=FFA568&logo=twitter&logoColor=202020&link=https://twitter.com/marimorais0)](https://twitter.com/marimorais0) 
+[![Gmail Badge](https://img.shields.io/badge/-marianamorais.dev@gmail.com-FFA568?style=flat-rounded&logo=Gmail&logoColor=202020&link=mailto:marianamorais.dev@gmail.com)](mailto:marianamorais.dev@gmail.com)
+[![Behance Badge](https://img.shields.io/badge/-Mariana%20Morais-FFA568?style=flat-rounded&logo=Behance&logoColor=202020&link=https://www.behance.net/marianamorais0)](https://www.behance.net/marianamorais0)
+[![Discord Badge](https://img.shields.io/badge/-Liga%20Dos%20Programadores-121419?style=flat-square&logo=Discord&logoColor=4ED4FF&link=https://discord.gg/fmnxSYR)](https://discord.gg/fmnxSYR)
