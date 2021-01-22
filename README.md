@@ -5,10 +5,10 @@
 ```diff
 @@👋 Hi there@@
 
-> I'm Front-End Developer
+> Front-End Developer
 ! Living in São Paulo, Brazil 🇧🇷.
 - 23 years old
-# 📖 Web development, ux/ui, programming languages
+# Web development, ux/ui, programming languages
 ```
 
 ```diff
