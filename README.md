@@ -19,7 +19,7 @@
     <a href="https://www.linkedin.com/in/marianamorais000/" target="_blank">
       <img src="https://img.shields.io/badge/--D76967?logo=linkedin&style=flat-rounded&for-the-badge&logoColor=202020" alt="Bradge LinkedIn" />
     </a>
-   <a href="https://twitter.com/marimorais0" target="_blank">
+   <a href="https://twitter.com/distromari" target="_blank">
       <img src="https://img.shields.io/badge/--D76967?logo=twitter&style=flat-rounded&for-the-badge&logoColor=202020" alt="Bradge Twitter" />
    </a>
    <a href="https://www.behance.net/marianamorais0" target="_blank">
