@@ -12,7 +12,7 @@
 ```
 
 ```diff
-@@👋Find me here@@
+@@Find me here@@
 ```
 
 <p align="center">
