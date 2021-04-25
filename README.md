@@ -1,19 +1,13 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="90px">
-</p>
+<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="30px">
   
-```diff
-@@👋 Hi there@@
-
-> Front-End Developer
-! Living in Sao Paulo, Brazil 🇧🇷.
-- 23 years old
-# Web development, ux/ui, programming languages
+```js
+const mari = {
+  learning: [js, reactjs, vuejs, node],
+  others: [ux-ui]
+}
 ```
 
-```diff
-@@Find me here@@
-```
 
 <p align="center">
     <a href="https://www.linkedin.com/in/marianamorais000/" target="_blank">
