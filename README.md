@@ -9,7 +9,6 @@ let
     backend = [ nodejs ];
     misc = [ ux / ui ];
   };
-in present-time
 ```
 
 </h4>
