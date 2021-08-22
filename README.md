@@ -5,7 +5,7 @@
 let
   name = "mariana";
   tech = {
-    frontend = [ vuejs, reactjs ];
+    frontend = [ vuejs reactjs ];
     backend = [ nodejs ];
     misc = [ ux / ui ];
   };
