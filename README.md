@@ -13,8 +13,8 @@ let
 
 <div align="center">
   
-[![Mari's Github Stats](https://github-readme-stats.vercel.app/api?username=distromari&hide_title=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Mari1s most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=distromari&count_private=true&layout=compact&theme=dark)](https://github.com/distromari?tab=repositories)
+[![Mari's Github Stats](https://github-readme-stats.vercel.app/api?username=distromari&hide_title=true&hide_border=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Mari1s most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=distromari&count_private=true&theme=dark&hide_border=true&layout=compact)](https://github.com/distromari?tab=repositories)
 </div>
 
 ##
