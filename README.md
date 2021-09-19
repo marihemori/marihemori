@@ -13,10 +13,10 @@ let
 
 <div align="center">
   
-[![Luiza Hall's Github Stats](https://github-readme-stats.vercel.app/api?username=luizoux&hide_title=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Luiza's Monst Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=distromari&count_private=true&layout=compact&theme=tokyonight)](https://github.com/distromari?tab=repositories)
+[![Mari's Github Stats](https://github-readme-stats.vercel.app/api?username=distromari&hide_title=true&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Mari1s most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=distromari&count_private=true&layout=compact&theme=dark)](https://github.com/distromari?tab=repositories)
 </div>
 
 ##
 
-
+![Snake animation](https://github.com/distromari/distromari/blob/output/github-contribution-grid-snake.svg)
