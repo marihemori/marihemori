@@ -11,9 +11,12 @@ let
 ```
 </h4>
 
+<div align="center">
+  
+[![Luiza Hall's Github Stats](https://github-readme-stats.vercel.app/api?username=luizoux&hide_title=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Luiza's Monst Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=distromari&count_private=true&layout=compact&theme=tokyonight)](https://github.com/distromari?tab=repositories)
+</div>
+
 ##
 
-<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=distromari&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
