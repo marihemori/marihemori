@@ -1,5 +1,5 @@
-<div display="flex">
-<img align="right" width="280" src="https://i.kym-cdn.com/photos/images/original/001/164/611/8d0.gif" />
+<div>
+<img align="right" width="270" src="https://i.kym-cdn.com/photos/images/original/001/164/611/8d0.gif" />
 <h4>
   
 ```nix
