@@ -1,5 +1,3 @@
-<div>
-<img align="right" width="270" src="https://i.kym-cdn.com/photos/images/original/001/164/611/8d0.gif" />
 <h4>
   
 ```nix
@@ -12,13 +10,11 @@ let
   };
 ```
 </h4>
-</div>
 
 ##
 
-<div align="center">
-  
-[![Mari's Github Stats](https://github-readme-stats.vercel.app/api?username=distromari&hide_title=true&hide_border=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Mari1s most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=distromari&count_private=true&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/distromari?tab=repositories)
-</div>
+
+<img width="330" src="https://i.kym-cdn.com/photos/images/original/001/164/611/8d0.gif" align="right" />
+ 
+[![Mari's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=distromari&count_private=true&layout=compact&theme=white&hide_border=true)](https://github.com/distromari?tab=repositories)
 
