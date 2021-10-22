@@ -14,7 +14,7 @@ let
 ##
 
 
-<img width="330" src="https://i.kym-cdn.com/photos/images/original/001/164/611/8d0.gif" align="right" />
+<img width="300" src="https://i.kym-cdn.com/photos/images/original/001/164/611/8d0.gif" align="right" />
  
 [![Mari's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=distromari&count_private=true&layout=compact&theme=white&hide_border=true)](https://github.com/distromari?tab=repositories)
 
