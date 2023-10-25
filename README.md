@@ -1,11 +1,14 @@
-<div align="center">
-  <div>
-    <div align="center">
-      <img src="https://camo.githubusercontent.com/b0fa06ee100360ae8811a115c133de7848891e3b/68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966" width="70px" />
-      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marihemori&layout=compact&theme=tokyonight&hide_border=true&hide_title=true">
-    </div>
-    <div>
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=marihemori&theme=catppuccin-mocha&hide_border=true&border_radius=12&hide_longest_streak=true" />
-    </div>
-  </div>
+<div>
+  <img src="https://i.pinimg.com/564x/5d/0a/82/5d0a8287b12465789968c1742651dfb0.jpg" width="250px" align="left" />
 </div>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNrdHRsMmV6NHV1NGIwdXN6MmZpZ3g2c3oycDIxemcwdDluMjBmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEOUMqltCrGdCnatFF/giphy.gif" width="60px" align="left">
+  <br>
+  <h4  align="left">Hi, I'm Mari 👋</h4>
+
+  ```diff
+  + Front-End Developer (for now)
+  @@ Web development, ux/ui, programming languages @@
+  # Living in Sao Paulo, Brazil.
+  # I like learning new things
+  ```
