@@ -6,6 +6,5 @@
 </div>
 
 <div style="display: flex; flex-direction: row; gap: 10px; align-items: center;" align="center"">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=marihemori&show_icons=true&theme=buefy&hide_border=true&border_radius=14&hide_title=true&rank_icon=github" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marihemori&count_private=true&layout=compact&theme=buefy&hide_border=true&card_width=500&langs_count=8&border_radius=14&hide_title=true" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marihemori&count_private=true&layout=compact&card_width=700&langs_count=9&border_radius=14&bg_color=e6e9ef&title_color=ca9ee6&text_color=232634&border_color=ca9ee6&text_bold=true" />
 </div>
