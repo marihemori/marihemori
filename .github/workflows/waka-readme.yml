@@ -15,5 +15,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          TIME_RANGE: last_30_days
           SHOW_TOTAL: true
