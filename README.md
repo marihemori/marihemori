@@ -1,8 +1,9 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNrdHRsMmV6NHV1NGIwdXN6MmZpZ3g2c3oycDIxemcwdDluMjBmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XEOUMqltCrGdCnatFF/giphy.gif" width="60px" align="center">
-  <h3>Hi, I'm Mari 👋</h3>
-</div>
+#### Hi there! I'm Mari <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="25px">
 
+💼 <samp> I’m currently working as a frontend developer<br> </samp>
+📚 <samp> Studying javascript, typescript, vue.js, React and node.js<br> </samp>
+📫 <samp> Contact: marianahemorais@gmail.com </samp>
+##
 <!--START_SECTION:waka-->
 
 ```txt
