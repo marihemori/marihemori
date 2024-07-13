@@ -2,7 +2,6 @@
 
 💼 <samp> I’m currently working as a frontend developer<br> </samp>
 📚 <samp> Studying javascript, typescript, vue.js, react and node.js<br> </samp>
-📫 <samp> Contact: marianahemorais@gmail.com </samp>
 ##
 <!--START_SECTION:waka-->
 
